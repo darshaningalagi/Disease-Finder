@@ -24,6 +24,7 @@ Users enter symptoms in a chatbot-style interface and the system predicts a poss
 3. Symptoms are converted into a feature vector.
 4. A trained Random Forest model predicts the disease.
 5. The result is displayed in a chatbot interface.
+6. do now enter yoru own language enter only symptons not except that.
 
 ---
 
