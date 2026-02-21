@@ -93,3 +93,13 @@ It is not intended for real medical diagnosis.
 
 This project is for educational and demonstration purposes only.  
 Do not use it for real medical decision making.
+
+step1:
+
+<img width="1917" height="912" alt="Screenshot 2026-02-21 151933" src="https://github.com/user-attachments/assets/b0cb1598-9c18-4629-929f-c086d0132c15" />
+
+
+step2:
+
+<img width="600" height="789" alt="Screenshot 2026-02-21 151948" src="https://github.com/user-attachments/assets/1d5f9bee-61f0-469e-92e7-ea3546db1791" />
+
